@@ -1,4 +1,4 @@
-#Restaurant Sentiment Analysis and Image Classification
+## Restaurant Sentiment Analysis and Image Classification
 This project performs a comprehensive sentiment analysis on restaurant reviews, leveraging Hugging Face's powerful NLP models. The workflow includes the following steps:
 
 Sentiment Analysis of Text Reviews: We analyze customer reviews using pre-trained sentiment analysis models from Hugging Face to derive sentiment scores (positive, negative, neutral).
