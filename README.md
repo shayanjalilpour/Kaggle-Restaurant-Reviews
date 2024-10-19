@@ -22,4 +22,4 @@ Training a CNN (Convolutional Neural Network) on restaurant images using the der
 
 ### Dataset:
 Restaurant review text and customer ratings, along with corresponding restaurant images.
-Google Maps Restaurant Reviews Dataset
+Google Maps Restaurant Reviews Dataset: 'https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews'
